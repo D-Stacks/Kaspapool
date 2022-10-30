@@ -1,0 +1,17 @@
+high priority 
+
+- implement command client
+- Implement and handle keep alive
+
+
+mid priority
+
+- Handle config 
+- Handle flag parsing
+
+low priority
+
+- invoke manual grpc connection
+- implement in-out last N shares calulations (good optimization!)
+
+
